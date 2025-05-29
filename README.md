@@ -1,4 +1,4 @@
-# Proyecto de meteria ( Programación Avanzadate)
+# Proyecto de meteria ( Programación Avanzada)
 
 Este es un proyecto de una calculadora con python 
 
